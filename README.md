@@ -24,7 +24,7 @@ An application where the user can find his favorite movie, read its description 
 
 ```bash
 
-git clone https://github.com/AKoczanski/movie-searcher.git
+git clone https://github.com/Beyzer/Movie-Search.git
 
 npm install
 
